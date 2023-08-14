@@ -13,7 +13,7 @@
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/purple.css); */
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/red.css); */
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/discord.css); */
-/*-------------VARIABLES-------------*/
+/*-------------VARIABLES-------------*
 :root {
   /* set to 'unset' to show */
   --scrollbars: none;
@@ -33,11 +33,11 @@
 /*-------------DARK MODE-------------*/
 /*---------------BASIC---------------*/
 .theme-dark {
-  --accent-color: #bde6fb;
-  --background-1: #171d20;
-  --background-2: #1e2529;
-  --background-accent: #1e2529;
-  --border-color: #273034;
+  --accent-color: #f23f3f;
+  --background-1: #8a2773;
+  --background-2: #eba0a0;
+  --background-accent: #f1a9f5;
+  --border-color: #eb9494;
 }
 /*-------------LIGHT MODE------------*/
 .theme-light {
