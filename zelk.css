@@ -33,11 +33,11 @@
 /*-------------DARK MODE-------------*/
 /*---------------BASIC---------------*/
 .theme-dark {
-  --accent-color: #bde6fb;
-  --background-1: #171d20;
-  --background-2: #1e2529;
-  --background-accent: #1e2529;
-  --border-color: #273034;
+  --accent-color: #f23f3f;
+  --background-1: #e6e0cc;
+  --background-2: #eba0a0;
+  --background-accent: #eb9494;
+  --border-color: #eb9494;
 }
 /*-------------LIGHT MODE------------*/
 .theme-light {
@@ -69,7 +69,7 @@
   --text-normal: var(--accent-color);
   --text-positive: var(--text-normal);
   --text-muted: #6d8692;
-  --text-link: #edf8fe;
+  --text-link: #ff69f5;
   --interactive-selected: var(--background-primary);
   --interactive-active: var(--text-normal);
   --interactive-normal: var(--text-normal);
