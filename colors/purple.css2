@@ -1,6 +1,6 @@
 /* Purple */
 .theme-dark {
-  --accent-color: #d8c4f1 !important;
+  --accent-color: #3a0861 !important;
   --background-1: #1a181e !important;
   --background-2: #221f26 !important;
   --border-color: #2d2832 !important;
